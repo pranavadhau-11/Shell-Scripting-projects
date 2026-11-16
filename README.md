@@ -16,6 +16,7 @@ My goal is to improve Linux automation skills through practical implementation a
 📂 Projects
 
 No.| Project Name| Status
+
 01| "System Information Report" (./system-information-report/)| Completed
 
 🎯 Learning Focus
