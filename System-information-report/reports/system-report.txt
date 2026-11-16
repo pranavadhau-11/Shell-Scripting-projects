@@ -1,0 +1,28 @@
+Date: Mon Nov 16 10:42:10 PM IST 2026
+Hostname: pranav1
+Operating System:
+PRETTY_NAME="Red Hat Enterprise Linux 10.2 (Coughlan)"
+Kernel Version: 6.12.0-211.7.3.el10_2.x86_64
+System Uptime:
+up 33 minutes
+CPU Information:
+Model name:                              AMD Ryzen 5 3500U with Radeon Vega Mobile Gfx
+BIOS Model name:                         AMD Ryzen 5 3500U with Radeon Vega Mobile Gfx  CPU @ 1.9GHz
+Memory Information:
+               total        used        free      shared  buff/cache   available
+Mem:           1.6Gi       1.2Gi       182Mi       9.1Mi       453Mi       479Mi
+Swap:          2.0Gi       269Mi       1.7Gi
+Disk Usage:
+Filesystem             Size  Used Avail Use% Mounted on
+/dev/mapper/rhel-root   26G  6.2G   20G  25% /
+devtmpfs               807M     0  807M   0% /dev
+tmpfs                  837M   84K  837M   1% /dev/shm
+efivarfs               256K   60K  192K  24% /sys/firmware/efi/efivars
+tmpfs                  335M  6.9M  328M   3% /run
+tmpfs                  1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+/dev/nvme0n1p2         2.0G  436M  1.6G  22% /boot
+/dev/nvme0n1p1         599M  9.0M  590M   2% /boot/efi
+tmpfs                  168M  116K  168M   1% /run/user/0
+/dev/sr0                11G   11G     0 100% /run/media/root/RHEL-10-2-BaseOS-x86_64
+IP Address:
+172.18.174.254 2402:8100:3107:1ccf:20c:29ff:fe6e:1546 
