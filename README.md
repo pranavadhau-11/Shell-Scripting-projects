@@ -19,6 +19,8 @@ No.| Project Name| Status
 
 01| "System Information Report" (./system-information-report/)| Completed
 
+02| "user-management-automation"
+
 🎯 Learning Focus
 
 Bash Scripting | Linux Automation | System Administration | File Handling | Process Management | Task Automation
